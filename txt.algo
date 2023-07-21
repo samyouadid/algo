@@ -1,0 +1,4 @@
+ticket_price := 20 ;
+IF (age <=16) THEN
+   ticket_price := 10 ;
+END_IF
